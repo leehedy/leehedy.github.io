@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name is Hedy Lee, and this is my blog where I write about statistics, data analysis for fun!
+My name is Hedy Lee, and this is my blog where I write about statistics and perform data analysis for fun!
 
 
 ### Markdown
@@ -25,6 +25,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+```markdown
+When to use one-sample t-test and how to code in Python
+
+
+```
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
